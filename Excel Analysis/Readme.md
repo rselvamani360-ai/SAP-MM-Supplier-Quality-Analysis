@@ -2,7 +2,7 @@
 
 This section presents the Excel-based analysis performed for supplier quotation comparison, procurement analysis, material quality analysis, defect analysis, and root cause identification.
 
-[📥 Click to Download XLSX File](./Excel%20Analysis/Excel%20Workbook/SAP_MM_Supplier_Quality_Data_Analysis.xlsx)
+[📥 Click to Download XLSX File](./Excel%20Workbook/SAP_MM_Supplier_Quality_Analysis.xlsx)
 
 ---
 
