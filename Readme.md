@@ -4,73 +4,71 @@
   <img src="SAP_MM_Excel_PowerBI_Project_Cover.png" alt="SAP MM Excel Power BI Project Cover" width="100%">
 </p>
 
+---
+
 ## 📌 Project Overview
 
-This project demonstrates an end-to-end **SAP MM Procurement and Supplier Quality Analysis** workflow using:
+This project demonstrates an end-to-end **SAP MM Procurement and Supplier Quality Analysis** workflow using SAP MM, Microsoft Excel, Power BI, 7QC Tools, and Six Sigma DMAIC.
 
-- SAP MM
-- Microsoft Excel
-- Power BI
-- 7QC Tools
-- Six Sigma DMAIC
+The project connects procurement transactions with material quality inspection, supplier quotation comparison, defect analysis, root cause identification, and dashboard-based insights.
 
-The project connects procurement activities with **material quality inspection, defect analysis, supplier quotation comparison, and dashboard-based decision support**.
 ---
 
 ## 📂 Project Navigation
 
 | Module | Description |
 |--------|-------------|
-| 📦 [SAP MM](./SAP%20MM/) | SAP MM Procurement & Transaction Screenshots |
-| 📊 [Excel Analysis](./Excel%20Analysis/) | Excel Data Analysis & 7QC Tools |
-| 📈 [Power BI](./PowerBI/) | Power BI Dashboards & Reports |
+| 📦 [SAP MM](./SAP%20MM/Readme.md) | SAP MM procurement process, transactions and practical screenshots |
+| 📊 [Excel Analysis](./Excel%20Analysis/Readme.md) | Vendor comparison, quotation analysis, 7QC Tools and Fishbone Analysis |
+| 📈 [Power BI](./PowerBI/Readme.md) | DMAIC and Supplier Quality interactive dashboards |
 
----
-
-### 📁 Project Files
-
-- [Excel Workbook](./Excel%20Analysis/Excel%20Workbook/)
-- [Power BI Dashboard](./PowerBI/PowerBI%20Dashboard/)
-  
 ---
 
 ## 🎯 Project Objectives
 
-- Demonstrate SAP MM procurement activities
+- Demonstrate practical SAP MM procurement activities
 - Analyze supplier quotations and vendor pricing
-- Track material quality defects
+- Track material quality and defect information
 - Apply 7QC Tools for quality analysis
-- Identify material-wise and defect-wise issues
-- Analyze supplier quality performance
-- Build interactive Power BI dashboards
+- Identify possible root causes using Fishbone Analysis
+- Develop Power BI dashboards for supplier and quality analysis
+- Present procurement and quality insights in a structured format
 
 ---
 
 ## 🔄 End-to-End Project Flow
 
 ```text
-SAP MM Procurement
+Material Creation
         ↓
-Material & Vendor Management
-        ↓
-Purchase Requisition / RFQ
+Request for Quotation
         ↓
 Vendor Quotation
         ↓
 Vendor Comparison
         ↓
+Purchase Requisition
+        ↓
 Purchase Order
         ↓
-Goods Receipt (MIGO)
+Goods Receipt
         ↓
-Quality Inspection
+Material Document
         ↓
-Defect Data
+Excel Analysis
         ↓
-Excel 7QC Analysis
+7QC Tools
         ↓
 Fishbone Analysis
         ↓
-Power BI Dashboard
+Power BI Dashboards
         ↓
 Supplier Quality Insights
+        ↓
+Procurement & Quality Improvement
+        ↓
+Cancellation of Material Document
+        ↓
+Return Delivery to Vendor
+        ↓
+Invoice Verification (MIRO)
